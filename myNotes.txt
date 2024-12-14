@@ -1,0 +1,13 @@
+# Create the app, use the default recommendation
+npx create-next-app@latest ./
+
+# Update package.json to include the latest packages. Put them above dependencies
+# if you plan to delete and reinstall node modules, use th exact versions from dependencies in overrides
+...
+"packageManager": "npm@10.5.2",
+"overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom"
+},
+"dependencies": {...}
+...

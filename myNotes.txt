@@ -18,5 +18,12 @@ npx create-next-app@latest ./
 1. Follow the steps provided by next auth to do the basic implementation: https://authjs.dev/getting-started/installation
 2. Set up a OAuth provider: https://authjs.dev/getting-started/authentication/oauth -> follow the beginner tutorial if needed: https://authjs.dev/guides/configuring-github
 
+# Configure tailwind and global css
+- see commits
+
+# Add Shancn/ui CLI
+https://ui.shadcn.com/docs/cli
+
 # Stop a running port
 npx kill-port 3000
+

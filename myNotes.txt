@@ -17,3 +17,6 @@ npx create-next-app@latest ./
 # Instal next auth: https://authjs.dev/
 1. Follow the steps provided by next auth to do the basic implementation: https://authjs.dev/getting-started/installation
 2. Set up a OAuth provider: https://authjs.dev/getting-started/authentication/oauth -> follow the beginner tutorial if needed: https://authjs.dev/guides/configuring-github
+
+# Stop a running port
+npx kill-port 3000

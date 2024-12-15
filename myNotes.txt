@@ -27,3 +27,9 @@ https://ui.shadcn.com/docs/cli
 # Stop a running port
 npx kill-port 3000
 
+# To search globally, highlight
+ctrl+shift+f
+
+# Open search bar
+ctrl+p
+

@@ -24,6 +24,7 @@ npx create-next-app@latest ./
 2. Navigate to overview, copy command and run in your project
 3. Chose the preferred options when prompted
 4. update to use the latest api - npm install next-sanity@canary
+5. also install markdown if needed: npm install sanity-plugin-markdown
 
 
 

@@ -18,6 +18,16 @@ npx create-next-app@latest ./
 1. Follow the steps provided by next auth to do the basic implementation: https://authjs.dev/getting-started/installation
 2. Set up a OAuth provider: https://authjs.dev/getting-started/authentication/oauth -> follow the beginner tutorial if needed: https://authjs.dev/guides/configuring-github
 
+
+# Add sanity to the project
+1. Create account: https://www.sanity.io/jsmastery
+2. Navigate to overview, copy command and run in your project
+3. Chose the preferred options when prompted
+4. update to use the latest api - npm install next-sanity@canary
+
+
+
+## Additional ##
 # Configure tailwind and global css
 - see commits
 
